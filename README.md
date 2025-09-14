@@ -18,8 +18,8 @@ A simple and responsive clone of the **Myntra** e-commerce website homepage. Bui
 
 ## 🛠️ Technologies Used
 
-- HTML5
-- CSS3
+- HTML5  
+- CSS3  
 - Google Fonts & Material Symbols
 
 ---
@@ -28,8 +28,6 @@ A simple and responsive clone of the **Myntra** e-commerce website homepage. Bui
 
 ```text
 myntra-clone/
-├── index.html
-├── style.css
 ├── images/
 │   ├── myntra_logo.webp
 │   ├── banner.jpg
@@ -43,6 +41,8 @@ myntra-clone/
 │       ├── 2.jpg
 │       ├── ...
 │       └── 10.jpg
+├── index.html
+├── style.css
 
 
 # 📦 Getting Started
